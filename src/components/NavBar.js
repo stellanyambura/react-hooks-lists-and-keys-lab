@@ -12,3 +12,5 @@ function NavBar() {
     <a key = "projects" href= "#projects">{links[2]}</a>
   </nav>;
 }
+
+export default NavBar;
